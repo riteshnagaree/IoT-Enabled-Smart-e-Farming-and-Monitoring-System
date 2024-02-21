@@ -1,4 +1,4 @@
-# IoT-Enabled-Smart-e-Farming-and-Monitoring-System
+#IoT-enabled E-Farming and Monitoring System
 
 # Overview
 The IoT-enabled E-Farming and Monitoring System is a comprehensive solution designed to revolutionize agricultural practices by leveraging Internet of Things (IoT) technologies. This project aims to empower farmers, gardeners, and agricultural enthusiasts with the tools and insights needed to optimize crop cultivation, enhance productivity, and promote sustainability.
