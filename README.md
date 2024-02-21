@@ -4,6 +4,7 @@ Overview
 The IoT-enabled E-Farming and Monitoring System is a comprehensive solution designed to revolutionize agricultural practices by leveraging Internet of Things (IoT) technologies. This project aims to empower farmers, gardeners, and agricultural enthusiasts with the tools and insights needed to optimize crop cultivation, enhance productivity, and promote sustainability.
 
 Features
+
 Real-time Monitoring: Monitor crucial parameters such as soil moisture, temperature, humidity, light intensity, and nutrient levels in real-time.
 Remote Management: Control irrigation systems, fertilization equipment, and other farm operations remotely from anywhere using smartphones or computers.
 Data Analytics: Analyze sensor data to gain valuable insights into crop health, environmental conditions, and resource utilization.
